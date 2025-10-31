@@ -1,1 +1,6 @@
-"# Japanese-article-scraper" 
+# 日语语料爬虫，用于抓取日语文章用作回译学习
+
+## 已有的源
+- NHK
+- JST
+- はてなブロック
